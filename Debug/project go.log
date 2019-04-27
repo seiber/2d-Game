@@ -1,0 +1,38 @@
+﻿  Animation.cpp
+c:\users\dakota\desktop\project go\project go\animation.h(20): error C2061: syntax error: identifier 't'
+c:\users\dakota\desktop\project go\project go\animation.cpp(43): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\dakota\desktop\project go\project go\animation.cpp(52): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\dakota\desktop\project go\project go\animation.cpp(59): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\dakota\desktop\project go\project go\animation.cpp(52): error C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\dakota\desktop\project go\sfml\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\dakota\desktop\project go\project go\animation.cpp(59): error C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\dakota\desktop\project go\sfml\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+  FadeAnimation.cpp
+c:\users\dakota\desktop\project go\project go\animation.h(20): error C2061: syntax error: identifier 't'
+  Main.cpp
+c:\users\dakota\desktop\project go\project go\animation.h(20): error C2061: syntax error: identifier 't'
+c:\users\dakota\desktop\project go\project go\main.cpp(80): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  Screenmanager.cpp
+c:\users\dakota\desktop\project go\project go\animation.h(20): error C2061: syntax error: identifier 't'
+c:\users\dakota\desktop\project go\project go\screenmanager.cpp(27): error C2672: 'Animation::SetValue': no matching overloaded function found
+c:\users\dakota\desktop\project go\project go\screenmanager.cpp(27): error C2780: 'void Animation::SetValue(void)': expects 0 arguments - 2 provided
+  c:\users\dakota\desktop\project go\project go\animation.h(20): note: see declaration of 'Animation::SetValue'
+c:\users\dakota\desktop\project go\project go\screenmanager.cpp(47): error C2672: 'Animation::SetValue': no matching overloaded function found
+c:\users\dakota\desktop\project go\project go\screenmanager.cpp(47): error C2780: 'void Animation::SetValue(void)': expects 0 arguments - 2 provided
+  c:\users\dakota\desktop\project go\project go\animation.h(20): note: see declaration of 'Animation::SetValue'
+  SplashScreen.cpp
+c:\users\dakota\desktop\project go\project go\animation.h(20): error C2061: syntax error: identifier 't'
+c:\users\dakota\desktop\project go\project go\splashscreen.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\dakota\desktop\project go\project go\splashscreen.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\dakota\desktop\project go\project go\splashscreen.cpp(37): error C2672: 'Animation::SetValue': no matching overloaded function found
+c:\users\dakota\desktop\project go\project go\splashscreen.cpp(37): error C2780: 'void Animation::SetValue(void)': expects 0 arguments - 2 provided
+  c:\users\dakota\desktop\project go\project go\animation.h(20): note: see declaration of 'Animation::SetValue'
+c:\users\dakota\desktop\project go\project go\splashscreen.cpp(38): error C2672: 'Animation::SetValue': no matching overloaded function found
+c:\users\dakota\desktop\project go\project go\splashscreen.cpp(38): error C2780: 'void Animation::SetValue(void)': expects 0 arguments - 2 provided
+  c:\users\dakota\desktop\project go\project go\animation.h(20): note: see declaration of 'Animation::SetValue'
+c:\users\dakota\desktop\project go\project go\splashscreen.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\dakota\desktop\project go\project go\splashscreen.cpp(67): warning C4018: '>=': signed/unsigned mismatch
+c:\users\dakota\desktop\project go\project go\splashscreen.cpp(63): warning C4390: ';': empty controlled statement found; is this the intent?
+  TitleScreen.cpp
+c:\users\dakota\desktop\project go\project go\animation.h(20): error C2061: syntax error: identifier 't'
+  Generating Code...

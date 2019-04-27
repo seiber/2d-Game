@@ -1,0 +1,4 @@
+Load= [Image]
+[Splash/image1.jpg]
+[Splash/image2]
+[Splash/image3]
