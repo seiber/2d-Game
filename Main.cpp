@@ -40,7 +40,7 @@ int main()
 	//allows the user to close(x button) resize, minimizie, or full screen the window
 	sf::Style::Default;
 	sf::RenderWindow window(sf::VideoMode(512, 512), "Spaghetti Fighters");
-	//https://www.youtube.com/watch?v=6_wMQN3mpdk&index=12&list=PLCB3138ADCE90F2EC
+	
 	sf::RectangleShape Fade; 
 	//sf::Shape Fade =sf::RectangleShape(0, 0, 800, 600, sf::Color(255, 255, 255));
 	//sf::RectangleShape Fade = (0, 0, 800, 600, sf::Color(255, 255, 255));
