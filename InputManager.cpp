@@ -64,6 +64,5 @@ bool InputManager::KeyDown(sf::RenderWindow &window , std::vector<int> keys)
 return false;
 }
 
-https://www.youtube.com/watch?v=slccOjHGfQI&list=PLCB3138ADCE90F2EC&index=6
 */
 
