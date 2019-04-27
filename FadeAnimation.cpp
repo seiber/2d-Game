@@ -25,7 +25,7 @@ void FadeAnimation::UnloadContent()
 
 void FadeAnimation::Update(sf::RenderWindow &window)
 {
-	//https://www.youtube.com/watch?v=HvzW1e_48_U&index=10&list=PLCB3138ADCE90F2EC
+	
 	//https://en.sfml-dev.org/forums/index.php?topic=6831.0
 	if (active)
 	{
