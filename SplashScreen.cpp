@@ -17,7 +17,7 @@ void SplashScreen::LoadContent()
 	if (!Font.loadFromFile("OldLondon.ttf"))
 		cout << "Cant' load font" << endl;
 
-	//https://www.youtube.com/watch?v=2EzoygNV-pI&index=17&list=PLCB3138ADCE90F2EC 0:57
+	
 	Text.setString("SplashScreen");
 	Text.setFont(Font);
 	keys.push_back(sf::Keyboard::Return);
